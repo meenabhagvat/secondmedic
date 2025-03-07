@@ -50,12 +50,12 @@
         <p>Regular health screenings can help detect potential issues before they become serious. Choose the right package based on your needs:</p>
         <div class="row">
             <div class="col-md-6">
-                <p>✔ <a href="https://www.secondmedic.com/lab/thyrocare/basic-checkup">Basic Health Checkup</a> - Covers essential health parameters for routine checkups.</p>
-                <p>✔ <a href="https://www.secondmedic.com/lab/thyrocare/advanced-checkup">Advanced Health Checkup</a> - Includes additional tests for a deeper health analysis.</p>
+                <p>✔ <a href="https://www.secondmedic.com/lab/thyrocare/basic-checkup">Basic Checkup</a> - Covers essential health parameters for routine checkups.</p>
+                <p>✔ <a href="https://www.secondmedic.com/lab/thyrocare/advanced-checkup">Advanced Checkup</a> - Includes additional tests for a deeper health analysis.</p>
             </div>
             <div class="col-md-6">
-                <p>✔ <a href="https://www.secondmedic.com/lab/thyrocare/complete-checkup">Complete Health Checkup</a> - A comprehensive full-body checkup for overall health assessment.</p>
-                <p>✔ <a href="https://www.secondmedic.com/lab/thyrocare/couple-checkup">Couple Health Checkup</a> - Designed for couples to monitor their health together.</p>
+                <p>✔ <a href="https://www.secondmedic.com/lab/thyrocare/complete-checkup">Complete Checkup</a> - A comprehensive full-body checkup for overall health assessment.</p>
+                <p>✔ <a href="https://www.secondmedic.com/lab/thyrocare/couple-checkup">Couple Checkup</a> - Designed for couples to monitor their health together.</p>
             </div>
         </div>
     </section>
