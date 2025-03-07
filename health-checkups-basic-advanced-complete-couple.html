@@ -31,7 +31,7 @@
     <header class="bg-primary text-white text-center py-5">
         <h1>Comprehensive Health Checkups</h1>
         <p>Choose from Basic, Advanced, Complete, and Couple Health Checkups for a complete well-being analysis</p>
-        <a href="https://www.secondmedic.com/lab/thyrocare/advanced-checkup" class="btn btn-light">Book Now</a>
+        <a href="https://www.secondmedic.com/lab" class="btn btn-light">Book Now</a>
     </header>
 
     <section class="container my-5" id="benefits">
