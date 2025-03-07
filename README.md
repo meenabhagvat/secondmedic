@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic, Advanced, Complete, and Couple Health Checkups - SecondMedic</title>
-    <meta name="description" content="Book your Basic Checkup, Advanced Checkup, Complete Checkup, or Couple Checkup with Thyrocare at SecondMedic. Get comprehensive health analysis with fast and reliable results.">
-    <meta name="keywords" content="Basic Checkup, Advanced Checkup, Complete Checkup, Couple Checkup, Full Body Checkup, Preventive Health Tests, SecondMedic, Thyrocare Packages, Affordable Health Tests">
-    <meta name="author" content="SecondMedic">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-</head>
-<body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container">
-            <a class="navbar-brand" href="https://www.secondmedic.com/">SecondMedic</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="#benefits">Benefits</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#tests">Tests Included</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#faq">FAQs</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+
 
     <header class="bg-primary text-white text-center py-5">
         <h1>Comprehensive Health Checkups</h1>
